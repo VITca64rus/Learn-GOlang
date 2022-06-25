@@ -6,4 +6,6 @@
 - работу с JSON;
 - и многое другое.
 
+![Сертификат](certificate.png)
+
 [Ссылка на курс](https://stepik.org/course/54403/info)
